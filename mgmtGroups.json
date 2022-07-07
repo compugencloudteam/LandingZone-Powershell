@@ -24,7 +24,7 @@
             "defaultValue": [
                 "production",
                 "non-production",
-                "QA"
+                "qa"
             ],
             "metadata": {
                 "description": "These are the landing zone management groups."
