@@ -3,9 +3,6 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "topLevelManagementGroupName": {
-
-// topLevelManagementGroupPrefix
-
             "type": "string",
             "metadata": {
                 "description": "Provide name for the parent management group."
