@@ -6,7 +6,8 @@
             "type": "string",
             "metadata": {
                 "description": "Provide name for the parent management group."
-            },
+            }
+        },
         "childLevelManagementGroupPrefix": {
             "type": "string",
             "metadata": {
@@ -27,9 +28,8 @@
         "landingZoneMgs": {
             "type": "array",
             "defaultValue": [
-                "production",
-                "non-production",
-                "qa"
+                "online",
+                "corp"
             ],
             "metadata": {
                 "description": "These are the landing zone management groups."
