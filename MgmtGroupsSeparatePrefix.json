@@ -28,8 +28,9 @@
         "landingZoneMgs": {
             "type": "array",
             "defaultValue": [
-                "online",
-                "corp"
+                "production",
+                "non-production",
+                "qa"
             ],
             "metadata": {
                 "description": "These are the landing zone management groups."
